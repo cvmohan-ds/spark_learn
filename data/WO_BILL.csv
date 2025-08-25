@@ -1,0 +1,16 @@
+acc_no,license,vin_no,cust_type,is_free_tier_expired,call_type,call_info,call_date,work_rate_per_hour,work_labor_rate,final_cost
+A123456,TS073373,VIN34445AA07,Premium,No,SOS,Flat tyre,18-08-2024,20.0,1,0.0
+A123457,TS073374,VIN34445AA08,Regular,No,Road_call,Engine Failure,19-08-2024,100.0,4,4000.0
+A123458,TS073375,VIN34445AA09,Free Tier,No,SOS,Gear Problem,20-08-2024,40.0,3,0.0
+A123459,TS073376,VIN34445AA10,Premium,No,Home_call,start issue,21-08-2024,20.0,1,0.0
+A123460,TS073377,VIN34445AA11,Premium,No,Road_call,Noise while running,22-08-2024,10.0,2,0.0
+A123461,TS073378,VIN34445AA12,Premium,No,Road_call,Engine Failure,22-08-2024,100.0,4,0.0
+A123461,TS073378,VIN34445AA12,Premium,No,SOS,Gear Problem,22-08-2024,40.0,3,0.0
+A123461,TS073378,VIN34445AA12,Premium,No,Home_call,start issue,22-08-2024,20.0,1,0.0
+A123461,TS073378,VIN34445AA12,Premium,No,Road_call,Noise while running,26-08-2024,10.0,2,0.0
+A123462,TS073382,VIN34445AA13,Premium,No,Road_call,Engine Failure,27-08-2024,100.0,4,0.0
+A123463,TS073383,VIN34445AA14,Regular,No,SOS,Gear Problem,22-08-2024,40.0,3,120.0
+A123464,TS073384,VIN34445AA15,Regular,Yes,Home_call,start issue,22-08-2024,20.0,1,60.0
+A123465,TS073385,VIN34445AA16,Premium,No,Road_call,Noise while running,26-08-2024,10.0,2,0.0
+A123466,TS073386,VIN34445AA17,Regular,No,Road_call,Engine Failure,27-08-2024,100.0,4,4800.0
+A123467,TS073387,VIN34445AA18,Free Tier,No,SOS,Gear Problem,22-08-2024,40.0,3,0.0

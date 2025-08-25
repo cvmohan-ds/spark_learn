@@ -1,0 +1,6 @@
+﻿Cost_id,cost_type,work_rate_per_hour,Work_labour_hours
+C_11,Flat tyre,20,1
+C_12,Engine Failure,100,4
+C_13,Gear Problem,40,3
+C_14,start issue,20,1
+C_15,Noise while running,10,2

@@ -1,0 +1,50 @@
+﻿License,Caller,call_type,Call_info,call_date,time_spent_in_hours
+TS073373,Cust_1,SOS,Flat tyre,18-08-2024,2
+TS073374,Cust_2,Road_call,Engine Failure,19-08-2024,10
+TS073375,Cust_3,SOS,Gear Problem,20-08-2024,1
+TS073376,Cust_4,Home_call,start issue,21-08-2024,4
+TS073377,Cust_5,Road_call,Noise while running,22-08-2024,3
+TS073378,Cust_6,Road_call,Engine Failure,22-08-2024,1
+TS073378,Cust_6,SOS,Gear Problem,22-08-2024,1
+TS073378,Cust_6,Home_call,start issue,22-08-2024,6
+TS073378,Cust_6,Road_call,Noise while running,26-08-2024,3
+TS073382,Cust_10,Road_call,Engine Failure,27-08-2024,1
+TS073383,Cust_11,SOS,Gear Problem,22-08-2024,1
+TS073384,Cust_12,Home_call,start issue,22-08-2024,3
+TS073385,Cust_13,Road_call,Noise while running,26-08-2024,3
+TS073386,Cust_14,Road_call,Engine Failure,27-08-2024,12
+TS073387,Cust_15,SOS,Gear Problem,22-08-2024,1
+TS073388,Cust_16,Home_call,start issue,22-08-2024,1
+TS073389,Cust_17,Road_call,Noise while running,26-08-2024,3
+TS073390,Cust_18,Road_call,Engine Failure,27-08-2024,1
+TS073391,Cust_19,SOS,Gear Problem,22-08-2024,1
+TS073392,Cust_20,Home_call,start issue,22-08-2024,3
+TS073393,Cust_21,Road_call,Noise while running,26-08-2024,3
+TS073394,Cust_22,Road_call,Engine Failure,27-08-2024,1
+TS073395,Cust_23,SOS,Gear Problem,22-08-2024,1
+TS073396,Cust_24,Home_call,start issue,22-08-2024,2
+TS073397,Cust_25,Road_call,Noise while running,26-08-2024,3
+TS073398,Cust_26,Road_call,Engine Failure,27-08-2024,1
+TS073399,Cust_27,SOS,Gear Problem,22-08-2024,1
+TS073400,Cust_28,Home_call,start issue,22-08-2024,2
+TS073401,Cust_29,Road_call,Noise while running,26-08-2024,3
+TS073402,Cust_30,Road_call,Engine Failure,27-08-2024,1
+TS073403,Cust_31,SOS,Gear Problem,22-08-2024,1
+TS073404,Cust_32,Home_call,start issue,22-08-2024,4
+TS073405,Cust_33,Road_call,Noise while running,26-08-2024,3
+TS073406,Cust_34,SOS,Flat tyre,27-08-2024,2
+TS073407,Cust_35,SOS,Flat tyre,22-08-2024,2
+TS073408,Cust_36,SOS,Flat tyre,22-08-2024,2
+TS073409,Cust_37,SOS,Flat tyre,26-08-2024,2
+TS073410,Cust_38,SOS,Flat tyre,27-08-2024,2
+TS073411,Cust_39,SOS,Flat tyre,22-08-2024,2
+TS073412,Cust_40,SOS,Flat tyre,22-08-2024,2
+TS073413,Cust_41,SOS,Flat tyre,26-08-2024,2
+TS073414,Cust_42,SOS,Flat tyre,27-08-2024,2
+TS073415,Cust_43,SOS,Flat tyre,22-08-2024,2
+TS073416,Cust_44,SOS,Flat tyre,22-08-2024,2
+TS073417,Cust_45,SOS,Flat tyre,26-08-2024,2
+TS073418,Cust_46,SOS,Flat tyre,27-08-2024,2
+TS073419,Cust_47,SOS,Flat tyre,22-08-2024,2
+TS073420,Cust_48,SOS,Flat tyre,22-08-2024,2
+TS073421,Cust_49,SOS,Flat tyre,26-08-2024,2
